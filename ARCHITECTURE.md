@@ -321,10 +321,11 @@ Car-Rental/
 │   │
 │   └── package.json                        [Dependencies]
 │
-├── README_BOOKING.md                        [Quick start]
-├── INTEGRATION_SUMMARY.md                   [Implementation docs]
-├── TROUBLESHOOTING.md                       [Troubleshooting]
-└── BOOKING_IMPLEMENTATION.md               [Technical details]
+├── README.md                                [Main documentation]
+├── ARCHITECTURE.md                          [This file]
+├── TROUBLESHOOTING.md                       [Troubleshooting guide]
+├── setup.bat                                [Windows setup script]
+└── setup.sh                                 [Linux/Mac setup script]
 ```
 
 ## Sequence Diagram
