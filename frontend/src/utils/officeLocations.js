@@ -18,8 +18,10 @@ export const getAvailableLocations = () => {
     return Object.keys(OFFICE_LOCATIONS);
 };
 
-export default {
+const officeUtils = {
     OFFICE_LOCATIONS,
     getOfficeId,
     getAvailableLocations
 };
+
+export default officeUtils;

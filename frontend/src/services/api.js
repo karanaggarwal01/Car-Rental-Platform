@@ -48,8 +48,10 @@ export const bookingAPI = {
     cancelBooking: (bookingId) => apiCall(`/bookings/${bookingId}`, 'DELETE'),
 };
 
-export default {
+const apiServices = {
     userAPI,
     carAPI,
     bookingAPI,
 };
+
+export default apiServices;
