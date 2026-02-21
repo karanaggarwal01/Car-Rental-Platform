@@ -4,7 +4,7 @@ A full-stack car rental application built with React and Node.js, featuring user
 
 ## 🌐 Live Demo
 
-👉 [View Live Demo](https://your-demo-link-here.com)
+👉 [View Live Demo](https://car-rental-platform-five.vercel.app/)
 
 ## 📋 Table of Contents
 
