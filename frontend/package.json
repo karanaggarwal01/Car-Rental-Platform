@@ -41,5 +41,11 @@
   },
   "devDependencies": {
     "sass": "^1.94.2"
+  },
+  "eslintConfig": {
+    "extends": ["react-app"],
+    "rules": {
+      "import/no-anonymous-default-export": "off"
+    }
   }
 }
